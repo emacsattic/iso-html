@@ -3,6 +3,8 @@
 ;; $Id: iso-html.el,v 1.1 1994/10/27 10:18:55 gerd Exp gerd $
 ;;*****************************************************************************
 ;;
+;; License: GPL
+;;
 ;; Description:
 ;;	When using HTML it is highly desirable to display national
 ;;	characters contained in the ISO-8859/1 character set. Editing
